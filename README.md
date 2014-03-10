@@ -1,6 +1,7 @@
 ConfReader
 ==========
 
+```
 make
 ./testconfig
-
+```
